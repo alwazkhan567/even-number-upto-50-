@@ -1,2 +1,2 @@
-# even-number-upto-50-
+# print even-number-upto-50-
 using loop
